@@ -118,4 +118,5 @@ main > address > ul.links-list > li.links-list__links {
 main > address > ul.links-list > li.links-list__links:hover {
     background-color: var(--green-color);
     color: var(--dark-grey-color);
+    cursor: pointer;
 }
